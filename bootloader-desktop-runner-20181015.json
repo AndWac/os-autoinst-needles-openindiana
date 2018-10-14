@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 107,
+      "ypos": 336,
+      "xpos": 354,
+      "type": "match",
+      "width": 321
+    },
+    {
+      "type": "exclude",
+      "width": 26,
+      "height": 23,
+      "ypos": 377,
+      "xpos": 504
+    }
+  ],
+  "tags": [
+    "desktop-runner"
+  ],
+  "properties": []
+}
