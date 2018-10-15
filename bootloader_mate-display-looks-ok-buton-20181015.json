@@ -1,0 +1,15 @@
+{
+  "properties": [],
+  "area": [
+    {
+      "width": 165,
+      "type": "match",
+      "height": 19,
+      "ypos": 400,
+      "xpos": 591
+    }
+  ],
+  "tags": [
+    "display-looks-ok-buton"
+  ]
+}
