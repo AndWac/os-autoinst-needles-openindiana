@@ -1,0 +1,24 @@
+{
+  "properties": [
+    "workaround"
+  ],
+  "area": [
+    {
+      "type": "match",
+      "width": 159,
+      "height": 13,
+      "ypos": 186,
+      "xpos": 484
+    },
+    {
+      "xpos": 519,
+      "ypos": 514,
+      "height": 37,
+      "width": 306,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "mate-display-properties"
+  ]
+}
