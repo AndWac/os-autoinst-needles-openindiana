@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "height": 767,
+      "width": 260,
+      "type": "match"
+    },
+    {
+      "ypos": 219,
+      "xpos": 9,
+      "height": 45,
+      "type": "exclude",
+      "width": 125
+    }
+  ],
+  "tags": [
+    "ENV-QEMUVGA-qxl",
+    "mate-desktop-1280x768"
+  ],
+  "properties": [
+    "workaround"
+  ]
+}
